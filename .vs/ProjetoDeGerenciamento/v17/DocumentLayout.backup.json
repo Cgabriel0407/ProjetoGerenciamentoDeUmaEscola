@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|solutionrelative:projetodegerenciamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|c:\\c#\\em_andamento\\projetodegerenciamento\\projetodegerenciamento\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|solutionrelative:projetodegerenciamento\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|c:\\c#\\em_andamento\\projetodegerenciamento\\projetodegerenciamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|solutionrelative:projetodegerenciamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|c:\\c#\\em_andamento\\projetodegerenciamento\\projetodegerenciamento\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|solutionrelative:projetodegerenciamento\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|c:\\c#\\em_andamento\\projetodegerenciamento\\projetodegerenciamento\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "ProjetoDeGerenciamento\\Program.cs",
               "ToolTip": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Program.cs",
               "RelativeToolTip": "ProjetoDeGerenciamento\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwDYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T00:59:31.982Z",
               "IsPinned": true,
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Aluno.cs",
               "RelativeDocumentMoniker": "ProjetoDeGerenciamento\\Aluno.cs",
@@ -57,7 +57,8 @@
               "ViewState": "AgIAAC0AAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T23:52:35.222Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,15 +75,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Turma.cs",
               "DocumentMoniker": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Turma.cs",
               "RelativeDocumentMoniker": "ProjetoDeGerenciamento\\Turma.cs",
               "ToolTip": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Turma.cs",
               "RelativeToolTip": "ProjetoDeGerenciamento\\Turma.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAUwHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T21:35:19.166Z"
+              "WhenOpened": "2025-08-25T21:35:19.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

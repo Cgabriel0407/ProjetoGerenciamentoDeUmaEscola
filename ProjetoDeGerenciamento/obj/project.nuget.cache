@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+12bYduvWA=",
+  "dgSpecHash": "nOE1FzOL7Rc=",
   "success": true,
-  "projectFilePath": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj",
+  "projectFilePath": "C:\\Users\\carlo\\Desktop\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",

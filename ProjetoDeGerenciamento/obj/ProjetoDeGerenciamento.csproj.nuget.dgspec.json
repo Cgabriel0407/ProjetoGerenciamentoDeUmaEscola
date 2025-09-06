@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj": {}
+    "C:\\Users\\carlo\\Desktop\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj": {}
   },
   "projects": {
-    "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj": {
+    "C:\\Users\\carlo\\Desktop\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj",
         "projectName": "ProjetoDeGerenciamento",
-        "projectPath": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj",
+        "projectPath": "C:\\Users\\carlo\\Desktop\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\obj\\",
+        "outputPath": "C:\\Users\\carlo\\Desktop\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
