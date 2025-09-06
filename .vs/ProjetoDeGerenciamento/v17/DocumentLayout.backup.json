@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|c:\\c#\\em_andamento\\projetodegerenciamento\\projetodegerenciamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|solutionrelative:projetodegerenciamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|c:\\c#\\em_andamento\\projetodegerenciamento\\projetodegerenciamento\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|solutionrelative:projetodegerenciamento\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|c:\\c#\\em_andamento\\projetodegerenciamento\\projetodegerenciamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|solutionrelative:projetodegerenciamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|c:\\c#\\em_andamento\\projetodegerenciamento\\projetodegerenciamento\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|solutionrelative:projetodegerenciamento\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|c:\\c#\\em_andamento\\projetodegerenciamento\\projetodegerenciamento\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F79E741-1624-495D-88F3-6A474ACD62F9}|ProjetoDeGerenciamento\\ProjetoDeGerenciamento.csproj|solutionrelative:projetodegerenciamento\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoDeGerenciamento\\Program.cs",
+              "ToolTip": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Program.cs",
+              "RelativeToolTip": "ProjetoDeGerenciamento\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:59:31.982Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Aluno.cs",
+              "RelativeDocumentMoniker": "ProjetoDeGerenciamento\\Aluno.cs",
+              "ToolTip": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Aluno.cs",
+              "RelativeToolTip": "ProjetoDeGerenciamento\\Aluno.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T23:52:35.222Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Professor.cs",
+              "RelativeDocumentMoniker": "ProjetoDeGerenciamento\\Professor.cs",
+              "ToolTip": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Professor.cs",
+              "RelativeToolTip": "ProjetoDeGerenciamento\\Professor.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:53:44.706Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Turma.cs",
+              "RelativeDocumentMoniker": "ProjetoDeGerenciamento\\Turma.cs",
+              "ToolTip": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Turma.cs",
+              "RelativeToolTip": "ProjetoDeGerenciamento\\Turma.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T21:35:19.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Disciplina.cs",
+              "RelativeDocumentMoniker": "ProjetoDeGerenciamento\\Disciplina.cs",
+              "ToolTip": "C:\\C#\\em_andamento\\ProjetoDeGerenciamento\\ProjetoDeGerenciamento\\Disciplina.cs",
+              "RelativeToolTip": "ProjetoDeGerenciamento\\Disciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T01:13:06.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

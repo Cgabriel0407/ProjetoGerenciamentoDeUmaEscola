@@ -1,0 +1,14 @@
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\obj\Debug\net8.0\ProjetoDeGerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\obj\Debug\net8.0\ProjetoDeGerenciamento.AssemblyInfoInputs.cache
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\obj\Debug\net8.0\ProjetoDeGerenciamento.AssemblyInfo.cs
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\obj\Debug\net8.0\ProjetoDeGerenciamento.csproj.CoreCompileInputs.cache
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\bin\Debug\net8.0\ProjetoDeGerenciamento.exe
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\bin\Debug\net8.0\ProjetoDeGerenciamento.deps.json
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\bin\Debug\net8.0\ProjetoDeGerenciamento.runtimeconfig.json
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\bin\Debug\net8.0\ProjetoDeGerenciamento.dll
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\bin\Debug\net8.0\ProjetoDeGerenciamento.pdb
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\obj\Debug\net8.0\ProjetoDeGerenciamento.dll
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\obj\Debug\net8.0\refint\ProjetoDeGerenciamento.dll
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\obj\Debug\net8.0\ProjetoDeGerenciamento.pdb
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\obj\Debug\net8.0\ProjetoDeGerenciamento.genruntimeconfig.cache
+C:\C#\em_andamento\ProjetoDeGerenciamento\ProjetoDeGerenciamento\obj\Debug\net8.0\ref\ProjetoDeGerenciamento.dll
